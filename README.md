@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hi there, I'm Minh! 
+  # 👋 Hi there, I'm Minh!!!
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Network+%26+Data+Communication+Student;Always+learning+new+things" alt="Typing SVG" />
   
