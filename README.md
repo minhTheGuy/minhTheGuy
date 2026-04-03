@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 👋 Hi there, I'm Minh!!!
+  # Minh Nguyen
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Network+%26+Data+Communication+Student;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Network+%26+Data+Communication+Engineer;Always+Learn+New+Things" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=minhTheGuy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,17 +13,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Minh
 located_in: Vietnam
-current_job: Student & Developer
-education: ["Networking", "Data Communication"]
-company: Freelancer
-fields_of_interests: ["Web Development", "Networking", "Research", "Fun Apps"]
-currently_learning: ["Advanced Networking", "Cloud Technologies", "System Architecture", "AL/ML", "Web Development"]
-2025_goals: ["Contribute to Open Source", "Build Amazing Projects", "Network with Developers"]
+current_job: Student & System Engineer
+education: ["Networking", "System", "Software"]
+company: vHost, TDTU
+fields_of_interests: ["Networking", "System", "Tools/Application", "Research", "Fun Apps"]
+currently_learning: ["CCNA", "System OS", "Servers", "VPS/Cloud", "Web Development"]
+2026_goals: ["Contribute to Open Source", "Build Amazing Projects", "Leveling The Skill"]
 hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 ```
 
@@ -51,7 +51,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhTheGuy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -68,7 +68,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minhTheGuy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -76,18 +76,16 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔭 Working on **Network Security Projects**
-- 🌱 Learning **Cloud Computing & DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **AI/ML in Networking**
-- 💬 Ask me about **Web Development, Networking, or anything tech!**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
+- Working on **Network, System, Cloud, VPS, Security**
+- Looking to collaborate on **Open Source Projects, Personal Projects**
+- Ask me about **Anything You Want!**
+- Fun fact: **I Use ChatGPT When I Feel Stupid**
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhTheGuy&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
@@ -95,7 +93,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   
@@ -103,7 +101,7 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
   [![Steam](https://img.shields.io/badge/Steam-minhTheGuy-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/777228272728929283/)
   [![Facebook](https://img.shields.io/badge/Facebook-djang.minhx-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/djang.minhx)
   [![GitHub](https://img.shields.io/badge/GitHub-minhTheGuy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhTheGuy)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nguyen-huynh-dang-minh-685a463b6/)
   
 </div>
 
