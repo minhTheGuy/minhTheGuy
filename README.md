@@ -68,14 +68,6 @@ hobbies: ["Coding", "Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhTheGuy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## Current Focus
 
 - Working on **Network, System, Cloud, VPS, Security**
