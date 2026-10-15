@@ -57,18 +57,10 @@ languages: ["English (TOEIC LR 870, SW 290)", "Vietnamese (Native)"
 
 ## Current Focus
 
-- Working on **Network, System, Cloud, VPS, Security**
+- Working on **Network, System, Cloud, CyberSecurity**
 - Looking to collaborate on **Open Source Projects, Personal Projects**
 - Ask me about **Anything You Want!**
 - Fun joke: **I Use Gemini**
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhTheGuy&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ---
 
