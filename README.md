@@ -18,7 +18,7 @@
 ```yaml
 name: Minh
 located_in: Vietnam
-current_job: Student & System Engineer
+current_job: Student & IT Support
 education: ["Networking", "System", "Software"]
 fields_of_interests: ["Networking", "System", "Tools/Application", "Research", "Fun Apps"]
 languages: ["English (TOEIC LR 870, SW 290)", "Vietnamese (Native)"
